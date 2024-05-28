@@ -23,6 +23,12 @@ const navigation = () => {
       path: '/account-settings'
     },
     {
+      title: 'Báo cáo',
+      icon: Table,
+      path: '/report'
+    },
+
+    {
       sectionTitle: 'Pages'
     },
     {
