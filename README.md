@@ -1,148 +1,142 @@
-<p align="center">
-  <a href="https://github.com/adminkit/adminkit"><img src="https://adminkit.io/icons/icon-512x512.png" alt="AdminKit is a free & open-source HTML dashboard & admin template based on Bootstrap 5" width="96"></a>
-</p>
+# Mantis Free React Material UI Dashboard Template [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Download%20Mantis%20React%20-%20The%20professional%20Material%20designed%20React%20Admin%20Dashboard%20Template%20&url=https://mantisdashboard.io&via=codedthemes&hashtags=reactjs,webdev,developers,javascript)
 
-<h3 align="center">AdminKit</h3>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)](https://github.com/codedthemes/mantis-free-react-admin-template/blob/main/LICENSE)
+[![GitHub package version](https://img.shields.io/github/package-json/v/codedthemes/mantis-free-react-admin-template)](https://github.com/codedthemes/mantis-free-react-admin-template/)
 
-<p align="center">
-  AdminKit is a free & open-source HTML dashboard & admin template based on Bootstrap 5.
-</p>
+Mantis is a free and open source React redux dashboard template made using the Material UI React component library with aim of flexibility and better customizability.
 
-<p align="center">
-  <a href="https://www.npmjs.com/package/@adminkit/core" rel="nofollow"><img src="https://img.shields.io/npm/v/@adminkit/core" alt="NPM version"></a>
-  <a href="https://github.com/adminkit/adminkit/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
-  <a href="https://github.com/adminkit/adminkit/issues?q=is%3Aopen+is%3Aissue"><img src="https://img.shields.io/github/issues/adminkit/adminkit.svg" alt="GitHub issues open"></a>
-  <a href="https://github.com/adminkit/adminkit/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/adminkit/adminkit.svg" alt="GitHub issues closed"></a>
-  <a href="https://demo.adminkit.io/" rel="nofollow"><img src="https://img.shields.io/badge/demo-online-green.svg" alt="Live Demo"></a>
-  <a href="https://adminkit.io/#download"><img src="https://img.shields.io/static/v1?label=download&message=ZIP&color=green" alt="Download"></a>
-  <br>
-<a href="https://github.com/adminkit/adminkit"><img alt="GitHub stars" src="https://img.shields.io/github/stars/adminkit/adminkit?style=social"></a>
-</p>
+### Name Derived From Nature
 
-## Preview
-A professional Admin & Dashboard template based on Bootstrap 5 that comes with hundreds of UI components, forms, tables, charts, pages and icons. AdminKit **does not require jQuery** and neither does one of the 3rd party libraries AdminKit is using. [Open demo](https://demo.adminkit.io/).
+Mantis Logo is inspired from the insect name - 'Mantises' as they have triangular heads with flexible Necks. Also, the name is derived from two popular UI frameworks, Material UI and Ant Design (M-Ant-is).
 
-<a href="https://demo.adminkit.io" target="_blank"><img src="https://assets.adminkit.io/banners/github-1280%C3%97640px.png?2" alt="AdminKit Demo"></a>
+Mantis has Ant Design principal on top of the MAterial UI React component library.
 
-## Features
+:star: :star: :star: Support us by giving star (Top right of this page) if you like the theme :star: :star: :star:
 
-* **Customizable:** You don't need to be an expert to customize AdminKit. Our code is very readable and well documented.
-* **Fully Responsive:** With mobile, tablet & desktop support it doesn't matter what device you're using. AdminKit is responsive in all browsers.
-* **Cross-Browser:** Our themes are working perfectly with Chrome, Firefox, Safari, Opera, and Edge. We're working hard to support them.
-* **Clean Code:** We strictly follow Bootstrap's guidelines to make your integration as easy as possible. All code is handwritten.
-* **No jQuery:** AdminKit, and all third-party libraries used in the admin template, do not require jQuery as a dependency.
-* **Regular Updates:** From time to time you'll receive an update containing new components, improvements, and bugfixes.
+![mantis-free-react-dashboard-template.jpg](https://mantisdashboard.io/adv-banner-images/og-social-v1.1.0.png)
 
-## Quick start
+The [Pro version](https://mantisdashboard.io) of Mantis react template includes features such as TypeScript, apps, authentication methods (i.e. JWT, Auth0, Firebase), advance components, form plugins, layouts, widgets, and more.
 
-### Download
+| [Mantis Free](https://mantisdashboard.io/free) | [Mantis Pro](https://mantisdashboard.io)                                         |
+| ---------------------------------------------- | :------------------------------------------------------------------------------- |
+| **7** Demo pages                               | **85+** Demo pages                                                               |
+| -                                              | ✓ Multi-language                                                                 |
+| -                                              | ✓ Dark/Light Mode 🌓                                                             |
+| -                                              | ✓ TypeScript version                                                             |
+| -                                              | ✓ Design files (Figma)                                                           |
+| -                                              | ✓ Multiple color options                                                         |
+| -                                              | ✓ RTL                                                                            |
+| -                                              | ✓ JWT, Firebase, Auth0, AWS authentication                                       |
+| -                                              | ✓ [More components](https://mantisdashboard.io/components-overview/autocomplete) |
+| ✓ MIT License                                  | ✓ [Pro License](https://mui.com/store/license/)                                  |
 
-* Clone this repo `git clone https://github.com/adminkit/adminkit.git`
-* [Download from GitHub](https://github.com/adminkit/adminkit/archive/master.zip)
-* [Download from Website](https://adminkit.io/#download)
+## Why Mantis?
 
-### Build tools
+Mantis offers everything needed to build an advanced dashboard application. In the initial release, we included following high-end features,
 
-The theme includes a custom Webpack file, which can be used to quickly recompile and minify theme assets while developing or for deployment. You'll need to install Node.js before using Webpack.
+- Support React18.
+- Professional user interface.
+- Material UI React components.
+- Fully responsive, all modern browser supported.
+- Easy to use code structure
+- Flexible & high-Performance code
+- Simple documentation
 
-Once Node.js is installed, run npm install to install the rest of AdminKit's dependencies. All dependencies will be downloaded to the node_modules directory.
+## Free Mantis React version
 
-```sh
-npm install
-```
+#### Preview
 
-Now you're ready to modify the source files and generate new dist/ files. AdminKit uses webpack-dev-server to automatically detect file changes and start a local webserver at http://localhost:8080.
+- [Demo](https://mantisdashboard.io/free)
 
-```sh
-npm start
-```
+#### Download
 
-Compile, optimize, minify and uglify all source files to dist/ folder:
+- [Download from GitHub](https://github.com/codedthemes/mantis-free-react-admin-template)
 
-```sh
-npm run build
-```
+## Mantis Pro version
 
-## CDN support
+#### Preview
 
-All files included in the `@adminkit/core` npm package are available over a CDN.
+- [Demo](https://mantisdashboard.io)
 
-**CSS:**
+#### Purchase
 
-```html
-<link rel="stylesheet" href="https://unpkg.com/@adminkit/core@latest/dist/css/app.css">
-```
+- [Buy now](https://mui.com/store/items/mantis-react-admin-dashboard-template/)
 
-**Javascript:**
+## Table of contents
 
-```html
-<script src="https://unpkg.com/@adminkit/core@latest/dist/js/app.js"></script>
-```
+- [Getting started](#getting-started)
+- [Documentation](#documentation)
+- [Technology stack](#technology-stack)
+- [Author](#author)
+- [Issues?](#issues)
+- [License](#license)
+- [More Free React Templates](#more-free-react-material-admin-dashboard-templates)
+- [More Pro React Templates](#more-premium-react-material-admin-dashboard-templates)
+- [Follow us](#follow-us)
 
-## File structure
-The package contains the following directories and files:
+## Getting Started
+
+1. Clone from Github
 
 ```
-adminkit/
-├── .babelrc
-├── .eslintrc
-├── .nvmrc
-├── README.md
-├── package.json
-├── postcss.config.js
-├── webpack.config.js
-├── src/
-│   ├── fonts/
-│   ├── img/
-│   ├── js/
-│   │   ├── modules/
-│   │   └── app.js
-│   └── scss/
-│       ├── 1-variables/
-│       ├── 2-mixins/
-│       ├── 3-components/
-│       ├── 4-utilities/
-│       ├── 5-vendor/
-│       └── app.scss
-└── dist/
-    ├── css/
-    │   └── app.css
-    └── js/
-        └── app.js
+git clone https://github.com/codedthemes/mantis-free-react-admin-template.git
 ```
 
-## Browser Support
+2. Install packages
 
-| <img src="https://assets.adminkit.io/browsers/edge.png" alt="Edge" width="24px" height="24px" /><br/>Edge | <img src="https://assets.adminkit.io/browsers/firefox.png" alt="Firefox" width="24px" height="24px" /><br/>Firefox | <img src="https://assets.adminkit.io/browsers/chrome.png" alt="Chrome" width="24px" height="24px" /><br/>Chrome | <img src="https://assets.adminkit.io/browsers/safari.png" alt="Safari" width="24px" height="24px" /><br/>Safari | <img src="https://assets.adminkit.io/browsers/safari-ios.png" alt="iOS Safari" width="24px" height="24px" /><br/>iOS Safari |
-| --------- | --------- | --------- | --------- | --------- |
-| last version| last 2 versions| last 2 versions| last 2 versions| last 2 versions
+```
+yarn
+```
 
-## Resources
+3. Run project
 
-* [Demo](https://demo.adminkit.io/)
-* [Website](https://adminkit.io/)
-* [Documentation](https://adminkit.io/docs)
-* [Support](https://adminkit.io/support/)
-* [Affiliate Program](https://adminkit.io/affiliate-program)
+```
+yarn start
+```
 
-## Bugs and feature requests
+## Documentation
 
-Found a bug or have a feature request? [Please open a new issue](https://github.com/adminkit/adminkit/issues/new).
+[Mantis documentation](https://codedthemes.gitbook.io/mantis/) helps you out in all aspects from Installation to deployment.
 
-## Upgrade to PRO
-Get more power with AdminKit PRO, a premium variant of AdminKit, featuring hundreds of UI components, forms, tables, charts, pages, and icons.
+## Technology stack
 
-| Free Version        | [AdminKit PRO](https://adminkit.io/pricing/) |
-|---------------------|----------------------------------------------|
-| 15 Demo Pages       | ✔ 45+ Demo Pages                             |
-| 1 Plugin            | ✔ 10+ Plugins                                |
-| 1 Color Scheme      | ✔ 3 Color Schemes                            |
-|                     | ✔ All Bootstrap 5 Components                 |
-|                     | ✔ Dark Mode 🌙                               |
-|                     | ✔ Compact Sidebar                            |
-|                     | ✔ Calendar                                   |
-|                     | ✔ Advanced Forms                             |
-|                     | ✔ Drag and Drop                              |
-|                     | ✔ Toast Notifications                        |
-|                     | ✔ WYSIWYG Editors                            |
-|                     | ✔ Premium Support                            |
+- [Material UI V5](https://mui.com/core/)
+- Built with React Hooks API.
+- React context API for state management.
+- Redux toolkit.
+- React Router for navigation routing.
+- Support for Vite.
+- Code splitting.
+- CSS-in-JS.
+
+## Author
+
+Mantis is managed by team [CodedThemes](https://codedthemes.com).
+
+## Issues
+
+Please generate a [GitHub issue](https://github.com/codedthemes/mantis-free-react-admin-template/issues) if you found a bug in any version. We are try our best to resolve the issue.
+
+## License
+
+- Licensed under [MIT](https://github.com/codedthemes/datta-able-bootstrap-dashboard/blob/master/LICENSE)
+
+## More Free React Material Admin Dashboard Templates
+
+- [Free Materially](https://codedthemes.com/item/materially-free-reactjs-admin-template/)
+- [Free Berry](https://mui.com/store/items/berry-react-material-admin-free/)
+
+## More premium React Material Admin Dashboard Templates
+
+- [Materially](https://codedthemes.com/item/materially-reactjs-admin-dashboard/)
+- [Berry](https://mui.com/store/items/berry-react-material-admin/)
+
+## Follow us
+
+- Website [https://mantisdashboard.io](https://mantisdashboard.io)
+- Blog [https://blog.mantisdashboard.io](https://blog.mantisdashboard.io)
+- CodedThemes [https://codedthemes.com](https://codedthemes.com)
+- Dribbble [https://dribbble.com/codedthemes](https://dribbble.com/codedthemes)
+- Facebook [https://www.facebook.com/codedthemes](https://www.facebook.com/codedthemes)
+- Twitter [https://twitter.com/codedthemes](https://twitter.com/codedthemes)

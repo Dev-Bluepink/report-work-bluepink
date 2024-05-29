@@ -1,25 +1,19 @@
 ---
-name: Feature request 💄
-about: Suggest a new idea for AdminKit.
-labels: enhancement
+name: Feature request
+about: Suggest an idea for this project
+title: ''
+labels: ''
+assignees: ''
 ---
 
-<!-- Provide a general summary of the feature in the Title above -->
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-## Summary 💡
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
 
-<!-- Describe how it should work. -->
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
 
-## Examples 🌈
-
-<!--
-  Provide a link to the AdminKit specification, other implementations,
-  or screenshots of the expected behavior.
--->
-
-## Motivation 🔦
-
-<!--
-  What are you trying to accomplish? How has the lack of this feature affected you?
-  Providing context helps us come up with a solution that is most useful in the real world.
--->
+**Additional context**
+Add any other context or screenshots about the feature request here.
